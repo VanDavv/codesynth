@@ -7,7 +7,7 @@ Transform code into synth melody - just for fun :)
 $ docker run --rm -p 5000:80 vandavv/codesynth
 ```
 
-Open (0.0.0.0:5000)[0.0.0.0:5000] in your browser and follow the instructions.
+Open [0.0.0.0:5000](0.0.0.0:5000) in your browser and follow the instructions.
 
 ## Build from source
 
